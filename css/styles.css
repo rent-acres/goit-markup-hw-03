@@ -127,7 +127,7 @@ body {
 .address {
   display: flex;
   gap: 40px;
-  margin: 24px 156px 24px 332px;
+  margin: 24px 156px 24px auto;
 }
 .address-mail:hover,
 .address-mail:active,
