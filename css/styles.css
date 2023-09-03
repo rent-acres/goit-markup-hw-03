@@ -230,8 +230,7 @@ body {
 }
 
 .team-card {
-  padding-top: 32px;
-  padding-bottom: 32px;
+  margin: 32px 0;
 }
 
 .team-list-head {
@@ -300,9 +299,7 @@ body {
 }
 
 .result-content {
-  padding-top: 32px;
-  padding-bottom: 32px;
-  margin: 0 16px;
+  margin: 32px 16px;
 }
 
 /* Footer */
